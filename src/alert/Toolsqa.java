@@ -28,6 +28,7 @@ public class Toolsqa {
 		p.accept();
 		Thread.sleep(2000);
 		driver.quit();
+		System.out.println("hi");
 		
 		
 	}
